@@ -5,7 +5,7 @@
  id = "com.phonegap.app5"
  version = "1.0.0">
  
- <name> app4-Día advertencias del dispósitivo </name>
+ <name> app5-Advertencias del dispósitivo </name>
  
  <description>
  Aplicacion que realiza la vibracion y beep del Disposivo
